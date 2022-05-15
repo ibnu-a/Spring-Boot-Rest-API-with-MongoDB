@@ -10,7 +10,12 @@
 * Postman for testing
 
 ### Configure Spring Datasource
+**The configuration is in the application.properties file**
+
 * Setting `spring.data.mongodb.username`, `spring.data.mongodb.password`, `spring.data.mongodb.database` & `spring.data.mongodb.port` properties are the same as your database installation.
+
+### Configure Docker
+**The configuration is in the docker.compose.yaml file**
 
 
 ## Test
