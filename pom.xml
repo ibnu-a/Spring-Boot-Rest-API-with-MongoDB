@@ -14,7 +14,7 @@
 	<name>SpringBootRestAPI-MongoDB</name>
 	<description>Demo project for Spring Boot with MongoDB</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>14</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
